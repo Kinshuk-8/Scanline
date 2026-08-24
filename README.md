@@ -133,6 +133,6 @@ The project is deployed on Netlify.
 
 ## Author
 
-**Sai Priyanka**
+**Maddineni Kinshuk**
 B.Tech Computer Science & Engineering
 VIT-AP University
